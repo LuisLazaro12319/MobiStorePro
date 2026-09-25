@@ -1,0 +1,6 @@
+{
+  "name": "MobiStore Pro | Venta de Celulares & Smartphones de Alta Gama",
+  "description": "Tienda online de venta de smartphones de alta gama: iPhone, Samsung Galaxy, Motorola, Xiaomi y Google Pixel. Catálogo interactivo con selector de memoria y color, comparador en vivo, cotizador de plan canje y carrito de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
